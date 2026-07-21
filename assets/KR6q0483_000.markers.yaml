@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6q0483/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6q0483_J_000-0819a, 'n': 0819a, ed: J, source_xml_id: J34.B313.0819a}
   - {type: line-break, offset: 0, content: '', id: KR6q0483_J_000-0819a01, ed: J, 'n': 0819a01}
   - {type: substitution, offset: 8, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
@@ -296,6 +296,5 @@ markers:
   - {type: line-break, offset: 876, content: '', id: KR6q0483_J_000-0819c30, ed: J, 'n': 0819c30}
   - {type: page-break, offset: 876, content: '', id: KR6q0483_J_000-0820a, 'n': 0820a, ed: J, source_xml_id: J34.B313.0820a}
   - {type: line-break, offset: 876, content: '', id: KR6q0483_J_000-0820a01, ed: J, 'n': 0820a01}
-  body: []
   back: []
-hash: sha256:1c2d6b88e0ffd03535dc94d861300583f8bda6eddcb138411d78d3b744a0f669
+hash: sha256:43559df532836c045ac1e7cc28ba469c3c86562d8106bc0351529088ba7a5678
